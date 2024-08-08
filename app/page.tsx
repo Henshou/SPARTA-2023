@@ -16,8 +16,8 @@ export default function Home() {
                   <a href="/" className="text-white hover:bg-white hover:text-black rounded-lg p-2"> Home</a>
                   <a href="/about" className="text-white hover:bg-white hover:text-black rounded-lg p-2"> About Me</a>
                   <a href="/talents" className="text-white hover:bg-white hover:text-black rounded-lg p-2"> Talents and Interests</a>
-                  <a href="/" className="text-white hover:bg-white hover:text-black rounded-lg p-2"> Projects</a>
-                  <a href="/" className="text-white hover:bg-white hover:text-black rounded-lg p-2"> Skills</a>
+                  <a href="/projects" className="text-white hover:bg-white hover:text-black rounded-lg p-2"> Projects</a>
+                  <a href="/skills" className="text-white hover:bg-white hover:text-black rounded-lg p-2"> Skills</a>
                 </div>
               </div>
             </div>
