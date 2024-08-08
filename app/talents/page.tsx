@@ -42,11 +42,12 @@ export default function Talents() {
                         />
                         <h2 className="text-2xl font-bold mb-3 pl-2"> Minat dan Bakat</h2>
                     </div>
-                    <p className="text-gray-700">
-                        Namaku Samuel Gerrard Hamonangan Girsang, biasa dipanggil Gerrard. Aku adalah anak ketiga dari tiga bersaudara.
-                        Aku memiliki minat di bidang informatika terutama di bidang Web Development, aku juga sedang tertarik dengan bidang
-                        Cybersecurity. Hobbyku adalah doomscrolling instagram reels, bermain game, dan menonton apapun jenis medianya.
-                    </p>
+                    <h3 className="font-bold"> Minat: </h3>
+                    <h3>- Web Development</h3>
+                    <h3>- Cybersecurity</h3>
+                    <h3>- Game Development</h3>
+                    <h3 className="font-bold mt-3"> Bakat: </h3>
+                    <h3>- I don't know</h3>
                 </div>
             </div>
         </>
