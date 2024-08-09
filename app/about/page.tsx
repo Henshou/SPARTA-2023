@@ -34,8 +34,8 @@ export default function About() {
                     <div className="bg-white bg-opacity-60 p-6 rounded-lg max-w-md text-center">
                         <h2 className="text-2xl font-bold mb-4"> About Me</h2>
                         <p className="text-gray-700">
-                            Namaku Samuel Gerrard Hamonangan Girsang, biasa dipanggil Gerrard. Aku adalah anak ketiga dari tiga bersaudara.
-                            Aku memiliki minat di bidang informatika terutama di bidang Web Development, aku juga sedang tertarik dengan bidang
+                            Namaku Samuel Gerrard Hamonangan Girsang, biasa dipanggil Gerrard. Aku adalah mahasiswa Teknik Informatika di Institut Teknologi Bandung.
+                             Aku adalah anak ketiga dari tiga bersaudara. Aku memiliki minat di bidang informatika terutama di bidang Web Development, aku juga sedang tertarik dengan bidang
                             Cybersecurity. Hobbyku adalah doomscrolling instagram reels, bermain game, dan menonton apapun jenis medianya.
                         </p>
                     </div>
