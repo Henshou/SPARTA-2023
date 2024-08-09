@@ -1,36 +1,37 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+## Website Portofolio
 
-First, run the development server:
+Projek ini adalah website portofolio sederhana dari sang pembuat yang menjelaskan deskripsi diri, minat dan bakat, projek yang pernah dilakukan, serta kemampuan yang dimiliki oleh sang pembuat.
 
+## Teknologi
+Website ini dibuat menggunakan basic HTML dan juga basic tailwind CSS dengan memanfaatkan framework Next.js pada runtime environment yang disediakan yaitu Node.js.
+
+## How To Run
+- Unduh Zip Code lalu unzip folder tersebut
+- Run Command Prompt dan ubah direktori menuju lokasi folder my-app
+```bash
+cd ../../my-app
+```
+- Run package dari aplikasi tersebut dengan mengetikkan npm run dev di command prompt
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
+- Salin link dan buka http://localhost:3000 dengan browser anda untuk melihat isi website
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Bonus
+Bonus 1 Deployment: Belum
+Bonus 2 Responsive Design: Parsial
+Bonus 3 Penggunaan Basis Data atau CMS: Tidak mengerjakan
+Bonus 4 Kreativitas: Selesai
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Kesulitan
+Kesulitan yang dihadapi hanyalah karena sang pembuat masih baru dan belum familiar dengan framework Node.JS dan Next.JS sehingga perlu waktu untuk memahami dan mampu mengerjakan website ini sendiri. Penggunaan tailwind CSS yang cukup berbeda dengan style CSS yang biasa juga memberikan kesulitan sendiri tetapi terbantu dengan docs yang ada. Kesulitan dari pembuatan ini juga terletak pada cara membuat design website ini menjadi responsive. 
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## Identitas
+Nama: Samuel Gerrard Hamonangan Girsang
+Nama Panggilan: Gerrard
+Jurusan-Kampus: Teknik Informatika - Ganesha
+Angkatan: 2023
+NIM TPB: 19623003
+NIM Jurusan: 13523064
